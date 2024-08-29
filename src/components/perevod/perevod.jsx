@@ -18,11 +18,6 @@ const Perevod = () => {
       >
         <option value="en">English</option>
         <option value="ru">Russian</option>
-        <option value="tj">Tajik</option>
-      </select>
-      <select name="" id="">
-        <option value="">true</option>
-        <option value="">false</option>
       </select>
     </>
   );
