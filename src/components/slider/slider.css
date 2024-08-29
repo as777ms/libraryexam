@@ -1,0 +1,27 @@
+.slllider-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+  }
+  
+  .swwwiper-container {
+    width: 100%;
+    height: auto;
+  }
+  
+  .swippper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .sllsider-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+  }
